@@ -1,3 +1,5 @@
+// dynamic caching
+
 const cacheName = 'v1'
 
 // Install service worker
