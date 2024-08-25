@@ -48,3 +48,8 @@ self.addEventListener('fetch', e => {
         .catch(() => caches.match(e.request))
     )
 })
+
+
+// tm
+// jsm
+https://youtu.be/IaJqMcOMuDM?si=Z-XXzMm15TyQw5Ka
