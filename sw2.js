@@ -1,4 +1,4 @@
-// dynamic caching
+/* /* Service Worker Example with Dynamic Assets */ */
 
 const cacheName = 'v1'
 
