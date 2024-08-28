@@ -1,3 +1,5 @@
+/* Service Worker Example with Fixed Assets */
+
 const cacheName = 'v1'
 
 const cacheAssets = [
